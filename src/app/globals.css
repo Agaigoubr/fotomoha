@@ -1,0 +1,26 @@
+
+
+@import "tailwindcss";
+
+
+.scrolling-text {
+  display: flex;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.pe-12 {
+  padding-right: 12px;
+}
+
+.spacer {
+  margin-left: 8px;
+}
+
+
+/* styles/globals.css */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
