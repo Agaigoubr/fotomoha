@@ -48,7 +48,7 @@ export default function Home() {
       {/* العنوان + التحريك */}
       <div className={righteous.className}>
         <div className=" ml-[10px] mt-[20px]">
-          <h1 className="text-5xl">About Me</h1>
+          <h1 className="text-5xl">About Mqe</h1>
           <motion.h1
             className="text-3xl mt-5"
             initial={{ opacity: 0 }}
