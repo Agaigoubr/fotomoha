@@ -8,7 +8,6 @@ import Homeb from "@/component/Homeb";
 import Homcc from "@/component/Homcc";
 import styles from "./page.module.css";
 
-
 const righteous = Righteous({ subsets: ["latin"], weight: "400" });
 const anton = Anton({ subsets: ["latin"], weight: "400" });
 
@@ -65,28 +64,6 @@ export default function Home() {
           </div>
         </motion.div>
       </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       {/* الأقسام */}
       <Homeb />
